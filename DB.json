@@ -1,0 +1,41 @@
+
+  {
+    "product": [
+      {
+        "id": "1",
+        "name": "Electronics",
+        "description": "Price Drop!!! \nSamsung A23 on offer was \nwas kes23000\nnow kes20000 \nwashing machine on scale\n-still in good condition \n-still on warrant\n-Capacity-20L\n-Make:Hotpoint\n-owner asking 70000 kes\n-Quick sale!! \n-Von-Hotpoint blenders \n-In good condition \n-Owner asking \n-kes 3500 ",
+        "images": "images/sam  a23.png"
+      },
+      {
+        "id": "2",
+        "name": "Import Products",
+        "description": "-Brand New Clothes ready for direct importation \n-Bank finance options available \n-upto-80 percent bank guarantee ",
+        "images": "images/i  clo.jpeg"
+      },
+      {
+        "id": "3",
+        "name": "Business equipents",
+        "description": "-Office Supplies \n-Printers \n-Business Manuals \n-office number: \n0703883049",
+        "images": "images/business equi.jpeg"
+      },
+      {
+        "id": "4",
+        "name": "House Holds",
+        "description": "-New sofasets for sale near Quick-mart -Utawala \n-6 by 6 bed grey in colour@19000 on sale near gigiri \n-Curtain Rails for sale @5000 per set \n-if interested: \n-Call-0703883049 \n-For the above products",
+        "images": "images/sofa 1.jpeg"
+      },
+      {
+        "id": "5",
+        "name": "Mechanical Acessories & spares",
+        "description": "-Toyota Prado CV-joint available-0712323123 \n-Toyata vitz Front Bumper in store@our main store-Utawala \n-All terrain tyres in store from sizes \n-15-22 \n-Mercedes Benz C350 headlamp available in pair \n-if intersted: \n-0703883049-our office number 24/7",
+        "images": "images/prado cv.jpeg"
+      },
+      {
+        "id": "6",
+        "name": "Machine Import",
+        "description": "<U>Mercedes Benz GLE350</U>\n-Grey in colour \n-sunroof \n-leather seats \n-Ready for importation \n-Bank finance options available\n<u>Excavator R221</u>\n-New shape \n-Chain move options \n-kes-13Million \n-Current location-florida-U.S.A",
+        "images": "images/gle .jpeg"
+      }
+    ]
+  }

@@ -1,0 +1,119 @@
+/* #Electronics1:hover {
+    border: solid 2px grey;
+    transform: scale(1.08);
+    transition: 2s;
+}
+
+#Imports:hover {
+    border: solid 2px grey;
+    transition: 2s;
+    transform: scale(1.08);
+} */
+
+
+
+       
+       
+       
+       
+       
+       
+       
+       #Electronics1:hover{
+            border: solid 2px grey;
+            transform: scale(1.08);
+            transition: 2s;
+        }
+        #Imports:hover{
+            border: solid 2px grey;
+            transition: 2s;
+            transform: scale(1.08);
+        }
+        #Business:hover{
+            border: solid 2px grey;
+            transition: 2s;
+            transform: scale(1.08);
+        }
+        #house:hover{
+            border: solid 2px grey;
+            transition: 2s; 
+            transform: scale(1.08);
+        }
+        #Mechanical:hover{
+            border: solid 2px grey;
+            transition: 2s;
+            transform: scale(1.08);
+        }
+        #Machine:hover{
+            border: solid 2px grey;
+            transition: 2s;
+            transform: scale(1.08); 
+        }
+        .card:hover{
+            transform: scale(1.08);
+        }
+
+        .navbar-brand:hover{
+            transform: scale(1.08);
+            transition: 2s;
+        }
+        .nav-link:hover{
+            transform: scale(1.08);
+            transition: 2s;
+
+        }
+        .h1{
+            
+            padding-block: 80px ;
+            text-align: center;
+            
+        }
+
+        .h3{
+            background-color:lightskyblue;
+            padding-block: 50px ;
+            text-align: center; 
+        }
+
+
+        /* .navbar-brand{
+    
+            width: 250px;
+            height: 2.5cm;
+            border-radius: 30%;
+            font-family: 'Times New Roman', Times, serif;
+            font-style: italic; 
+            padding-block: 90px;
+            text-align: center;
+            margin-top: 20%;
+            
+        }
+
+        .nav-link{
+        
+            width: 4cm;
+            height: 2.cm;
+            border-radius: 200px;
+            margin: 20%;
+            text-align: center;
+            padding: 50px;
+            
+        } */
+
+        .navbar-nav {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+          }
+  
+          .nav-link {
+            margin: 0 10px;
+          }
+        #carousel_items img{
+            height: 400px;
+            width: 600px;
+        }
+        .btn{
+            margin-top: 80%;
+            margin-left: 50px;
+        }    
