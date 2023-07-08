@@ -21,7 +21,7 @@ git origin push main
 
 # Known Bugs
 
-There might be a misconnection with the aerver at times 
+There might be a misconnection with the server at times 
 
 ## Support and Contacts
 
