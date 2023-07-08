@@ -50,7 +50,7 @@
 
 
 // Fetch the data from the server
-fetch('DB.json')
+fetch('http://localhost:3000')
   .then(response => response.json())
   .then(data => {
     const products = data.products;
@@ -116,3 +116,5 @@ resetButton.addEventListener('click', function() {
   count = 0; // Reset the count to 0
   resetButton.innerHTML = 'Reset'; // Reset the reset button text
 });
+
+
